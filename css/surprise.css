@@ -1,6 +1,8 @@
 body {
   background-color: #ffe6eb;
   color: #ff6f91;
+  background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23f8a5c2' d='M10 3C8.2 0 3 2 3 6c0 2.6 3.1 5.5 7 9 3.9-3.5 7-6.4 7-9 0-4-5.2-6-7-3z'/%3E%3C/svg%3E");
+  background-repeat: repeat;
   font-family: 'Segoe UI', sans-serif;
   text-align: center;
   padding-top: 100px;
